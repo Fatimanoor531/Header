@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+    background-color: rgb(17, 17, 121);
+}
+.navbar{
+    height: 60px;
+    border: 5px solid white;
+    background-color: black;
+}
+.navbar button{
+    background-color: orange;
+}
+.navbar .logo{
+    color: orange;
+    font-size: 25px;
+}
+.navbar a{
+    margin-right: 180px;
+    text-decoration: none;
+    background-color: black;
+
+}
+.navbar .sa{
+    background-color: white;
+    color: black;
+}
